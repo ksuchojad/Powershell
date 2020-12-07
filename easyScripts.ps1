@@ -2,5 +2,5 @@
 
 Get-ADUser -Identity “christiane.doeringer” -Properties “LastLogonDate” 
 
-#hello comments sds
+#hello comments
 
